@@ -2881,7 +2881,7 @@ lang: ja_JP
   </g>
 </svg>
 
-<hr>
+<br>
 
  <div>
    <img src="Animation2.gif" onclick="this.setAttribute('src', this.getAttribute('src').replace(/_play.gif$/g, '.gif'));" style="cursor: pointer;">
