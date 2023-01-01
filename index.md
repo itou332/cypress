@@ -2883,7 +2883,7 @@ lang: ja_JP
 
 <hr>
 
-http://itou33good.starfree.jp/wp-content/uploads/2022/12/Animation2.gif
+https://github.com/itou332/cypress/blob/main/Animation2.gif
 
 <!--
 <h3>2023</h3>
