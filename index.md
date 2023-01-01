@@ -2705,12 +2705,187 @@ lang: ja_JP
 </svg>
 
 
+<h3>2023.1/1</h3>
+
+<svg
+   id="svg5"
+   version="1.1"
+   viewBox="0 0 98.474564 91.632782"
+   height="91.632782mm"
+   width="98.474564mm"
+   sodipodi:docname="donut2.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.9401788"
+     inkscape:cx="116.74182"
+     inkscape:cy="188.12699"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <filter
+       inkscape:label="Pixellize"
+       inkscape:menu="Pixel Tools"
+       inkscape:menu-tooltip="Reduce or remove antialiasing around shapes"
+       style="color-interpolation-filters:sRGB;"
+       id="filter43"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix39" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend41" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix63" />
+      <feConvolveMatrix
+         id="feConvolveMatrix65"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend67"
+         mode="normal"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix87" />
+      <feConvolveMatrix
+         id="feConvolveMatrix89"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend91"
+         mode="normal"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix129" />
+      <feConvolveMatrix
+         id="feConvolveMatrix131"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend133"
+         mode="normal"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix153" />
+      <feColorMatrix
+         id="feColorMatrix155"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1000 -500 "
+         in="fbSourceGraphic" />
+    </filter>
+    <pattern
+       id="Voronoi2890"
+       width="98.47456269645001"
+       height="91.63278174549998"
+       patternUnits="userSpaceOnUse"
+       patternTransform="translate(124.17, 148.287)">
+      <path
+         d="M 0.000,45.594 20.920,39.704 M 20.920,39.704 73.010,91.633 M 20.920,39.704 49.816,0.000 "
+         style="stroke:#000000;stroke-width:0.26458333333333334"
+         id="path11951" />
+    </pattern>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-77.6627, -132.384)">
+    <g
+       id="strokes"
+       fill="none"
+       stroke="rgba(0,0,0,1)"
+       stroke-dasharray="15, 1, 15, 1, 15, 1, 10"
+       stroke-linejoin="round"
+       stroke-width="0.05"
+       transform="matrix(0.105331 0 0 0.105331 31.1559 116.48)"
+       style="fill:url(#Voronoi2890);filter:url(#filter43)">
+      <path
+         d="m 974.09,508.87 -1.932,9.812 -0.233,1.183 -3.293,9.443 -0.5,1.431 -1.834,3.612 -2.575,5.068 -0.135,0.266 -0.819,1.613 -5.63,8.265 -1.217,1.787 -6.596,7.517 -1.62,1.847 -7.431,6.692 -2.012,1.811 -8.143,5.804 -2.359,1.681 -8.738,4.863 -2.636,1.467 -9.22,3.872 -2.821,1.185 -9.59,2.835 -2.899,0.858 -9.846,1.752 -2.865,0.51 -9.98,0.623 -2.721,0.17 -9.985,-0.55 -2.478,-0.136 -9.843,-1.762 -2.157,-0.386 -1.941,-0.611 -0.295,-0.093 -5.424,-1.707 -3.665,-1.153 -9.051,-4.252 -1.4,-0.658 -8.363,-5.482 -1.035,-0.678"
+         id="path9"
+         style="fill:url(#Voronoi2890)" />
+      <path
+         d="m 988.41,1009.5 38.444,-11.048 9.611,-2.763 9.611,-2.762 1.589,-0.457 9.204,-3.908 18.409,-7.818 9.205,-3.908 9.204,-3.909 9.205,-3.909 1.691,-0.718 43.31,-24.985 8.662,-4.996 1.36,-0.785 7.984,-6.02 7.985,-6.02 7.985,-6.021 15.969,-12.041 7.985,-6.02 0.692,-0.522 7.171,-6.969 7.171,-6.97 7.172,-6.969 14.343,-13.939 7.011,-6.813 24.88,-31.32 6.221,-7.83 5.208,-6.557 5.131,-8.584 10.262,-17.166 5.131,-8.584 5.131,-8.583 3.464,-5.795 4.164,-9.092 4.163,-9.092 4.164,-9.092 4.163,-9.092 0.635,-1.387 3.906,-9.205 3.905,-9.206 3.906,-9.206 3.906,-9.205 3.906,-9.206 3.934,-9.273 7.644,-29.01 2.547,-9.67 2.548,-9.67 2.044,-7.757 1.085,-9.94 1.086,-9.941 2.17,-19.882 1.086,-9.941 0.662,-6.071 -0.888,-19.98 -0.445,-9.99 -0.888,-19.98 -0.198,-4.437 -1.991,-9.799 -1.992,-9.8 -1.991,-9.8 -1.992,-9.8 -1.991,-9.799 -0.619,-3.044 -6.996,-18.736 -3.498,-9.369 -6.996,-18.736 -0.751,-2.013 -4.907,-8.714 -4.906,-8.714 -4.906,-8.713 -4.907,-8.714 -4.906,-8.714 -0.775,-1.376 -5.717,-8.205 -5.716,-8.205 -11.434,-16.41 -5.716,-8.205 -3.985,-5.719 -6.175,-7.866 -6.174,-7.866 -12.35,-15.732 -5.796,-7.384 -7.271,-6.866 -7.27,-6.866 -7.271,-6.865 -7.27,-6.866 -6.959,-6.571 -8.167,-5.771 -8.167,-5.77 -8.167,-5.771 -8.167,-5.77 -8.174,-5.776 -8.866,-4.625 -8.867,-4.625 -27.152,-14.164 -9.38,-3.465 -9.38,-3.466 -9.381,-3.465 -9.38,-3.466 -9.38,-3.465 -1.259,-0.465 -29.183,-6.951 -9.728,-2.316 -9.728,-2.317 -2.036,-0.485 -19.857,-2.39 -9.928,-1.196 -22.658,-2.727 -10,-0.11 -9.999,-0.109 -9.999,-0.11 -19.999,-0.218 -3.481,-0.039 -19.912,1.874 -9.956,0.936 -9.956,0.937 -9.956,0.936 -4.018,0.378 -9.809,1.943 -19.619,3.884 -23.994,4.75 -9.568,2.909 -9.567,2.908 -9.568,2.908 -9.568,2.909 -9.568,2.908 -4.529,1.377 -18.469,7.672 -9.235,3.837 -18.47,7.672 -4.477,1.86 -8.812,4.728 -17.624,9.454 -8.812,4.728 -8.812,4.727 -4.229,2.268 -8.298,5.582 -8.297,5.581 -8.298,5.581 -16.595,11.163 -3.806,2.559 -30.748,25.584 -7.688,6.396 -3.245,2.699 -6.974,7.167 -6.975,7.166 -6.974,7.166 -6.975,7.166 -6.975,7.167 -2.593,2.664 -12.304,15.768 -6.152,7.883 -6.152,7.884 -6.151,7.884 -1.909,2.446 -5.212,8.535 -20.844,34.14 -1.257,2.057 -4.145,9.1 -4.146,9.101 -4.146,9.1 -4.145,9.1 -4.146,9.1 -0.699,1.535 -14.765,47.77 -0.292,0.945 -6.552,39.46 -1.701,10.248 -0.218,9.997 -0.218,9.998 -0.217,9.997 -0.218,9.998 -0.217,9.958 1.277,9.919 1.276,9.918 1.277,9.918 1.276,9.918 1.249,9.708 1.815,9.834 1.814,9.834 1.815,9.834 1.814,9.834 1.815,9.834 1.359,7.366 2.782,9.605 2.783,9.606 2.782,9.605 2.783,9.605 2.782,9.605 0.564,1.947 4.249,9.053 4.248,9.053 4.248,9.052 4.249,9.053 5.354,11.41 5.622,8.271 5.621,8.27 5.622,8.271 5.621,8.27 5.622,8.27 2.007,2.953 6.847,7.288 6.848,7.287 13.694,14.576 6.848,7.288 3.365,3.581 23.658,18.447 7.887,6.149 7.886,6.149 5.194,4.05 17.43,9.806 8.716,4.904 8.715,4.903 8.715,4.904 7.408,4.167 37.32,14.396 9.33,3.598 9.83,3.792 9.418,3.361 9.419,3.36 18.837,6.72 1.569,0.56 19.473,4.56 9.736,2.281 19.474,4.56 6.894,1.615 58.386,5.684 9.995,-0.316 9.995,-0.317 9.995,-0.316 9.995,-0.317 9.995,-0.316 10.003,-0.317 9.877,-1.563 9.877,-1.562 9.877,-1.563 29.632,-4.689 1.016,-0.161"
+         id="path11"
+         style="fill:url(#Voronoi2890)" />
+      <path
+         d="m 952.36,522.06 4.925,5.574 3.979,6.201 2.454,5.581"
+         id="path13"
+         style="fill:url(#Voronoi2890)" />
+      <path
+         d="m 840.04,591.39 4.345,-8.261 5.715,-8.206 0.697,-1 6.65,-7.467 0.937,-1.052 7.464,-6.655 1.171,-1.043 8.162,-5.778 1.378,-0.976 8.746,-4.847 1.541,-0.854 9.221,-3.869 1.647,-0.691 9.587,-2.843 1.687,-0.5 9.841,-1.775 1.655,-0.298 9.978,-0.664 1.555,-0.103 11.383,0.555 9.859,1.671 1.187,0.201 9.141,2.748"
+         id="path15"
+         style="fill:url(#Voronoi2890)" />
+      <path
+         d="m 839.74,591.3 -2.216,-5.527 -1.646,-7.189 -0.533,-7.426"
+         id="path17"
+         style="fill:url(#Voronoi2890)" />
+    </g>
+  </g>
+</svg>
+
+<hr>
+
+http://itou33good.starfree.jp/wp-content/uploads/2022/12/Animation2.gif
+
 <!--
-<h3>2023</h3>
-
-
-
-
 <h3>2023</h3>
 
 
