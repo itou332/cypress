@@ -2883,7 +2883,9 @@ lang: ja_JP
 
 <hr>
 
-https://github.com/itou332/cypress/blob/main/Animation2.gif
+ <div>
+   <img src="Animation2.gif" onclick="this.setAttribute('src', this.getAttribute('src').replace(/_play.gif$/g, '.gif'));" style="cursor: pointer;">
+    </div>
 
 <!--
 <h3>2023</h3>
