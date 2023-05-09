@@ -11,39 +11,10 @@ font-size: 15px;
 
 body{
 font-family: "MS明朝";  
+appearance:none
 }
 
 svg{
-  transfome:rotate(90deg);
-  appearance:none;
+stroke-width:1px;
   }
   
-  
-  path{
-  fill:transparent;
-  storoke:#aaaaaa;
-  stroke-width:3;
-  animeation: circle 1s infinite 3s;
-  }
-  
-  @keyframes circle{
-  0%{ stroke-dasharray: 0 365;}
-  99.9%,to{stroke-dasharray:366 365; }
-  }
-
-
-  #rect1{
-    width:100px;
-    height:100px;
-    background:#ffffff00;
-    /* transition: transitionを適用するプロパティ 変化の時間 変化の開始時間 変化の具合 */
-    transition: all 300ms 0s ease;
-  }
-  #rect1:hover{
-    width:100%;
-    background:#075a2300;
-  }
-
-  .background{
-  background-size:auto;
-  }
